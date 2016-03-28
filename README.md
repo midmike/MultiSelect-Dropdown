@@ -6,4 +6,4 @@ Bootstrap 3 multi-select dropdown, and re-order to first option when selected. A
 - Bootstrap v3.3.5
 
 # Demo
-https://jsfiddle.net/midmike/vws7bgyf/24/
+https://jsfiddle.net/midmike/vws7bgyf/
