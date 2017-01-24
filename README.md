@@ -10,4 +10,4 @@ Bootstrap 3 multi-select dropdown, and re-order to first option when selected. A
 - onClick : onClick event on list
 
 # Demo
-https://jsfiddle.net/midmike/vws7bgyf/
+https://jsfiddle.net/midmike/vws7bgyf/37/
